@@ -14,7 +14,7 @@ Certainly! Here's a README description tailored to your TikTok clone project on 
 ```markdown
 # TikTok Clone with Firebase
 
-![TikTok Clone](link-to-your-project-image.png)
+![TikTok Clone]
 
 Welcome to the TikTok Clone with Firebase repository! This Flutter project replicates the popular TikTok app using Firebase services for authentication, real-time data, and cloud storage.
 
