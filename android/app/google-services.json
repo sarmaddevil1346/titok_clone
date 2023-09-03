@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445498686546",
+    "project_id": "tiktokclone-1085c",
+    "storage_bucket": "tiktokclone-1085c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445498686546:android:703fb2a02a31e1990ff38b",
+        "android_client_info": {
+          "package_name": "com.example.titok_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445498686546-j02iu1n7jukat6ko96p929s7b5v483ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCgsgyn-bX1NBC1HPYuPy0fj0qY4vIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445498686546-j02iu1n7jukat6ko96p929s7b5v483ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
